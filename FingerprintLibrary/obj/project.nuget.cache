@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6JLkC7++4PIyp4AZed7VycaIhzvQHRiu2yz7Nr2mcl1mOpyhy6wROeObUNbF1Et22q0mnVbu7yZhdfn0bQDkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luke\\source\\repos\\fingerprintlibrary\\FingerprintLibrary\\FingerprintLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luke\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luke\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\luke\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
