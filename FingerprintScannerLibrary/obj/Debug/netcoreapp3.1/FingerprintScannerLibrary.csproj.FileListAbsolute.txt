@@ -1,0 +1,12 @@
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.csprojAssemblyReference.cache
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.AssemblyInfoInputs.cache
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.AssemblyInfo.cs
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\bin\Debug\netcoreapp3.1\FingerprintScannerLibrary.deps.json
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\bin\Debug\netcoreapp3.1\FingerprintScannerLibrary.dll
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\bin\Debug\netcoreapp3.1\Futronic.Devices.FS26.dll
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\bin\Debug\netcoreapp3.1\Futronic.Devices.FS26.pdb
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.csproj.CopyComplete
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\bin\Debug\netcoreapp3.1\FingerprintScannerLibrary.pdb
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.dll
+C:\Users\luke\source\repos\FingerprintScannerLibrary\FingerprintScannerLibrary\obj\Debug\netcoreapp3.1\FingerprintScannerLibrary.pdb
